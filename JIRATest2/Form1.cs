@@ -19,6 +19,7 @@ namespace JIRATest2
         private void Form1_Load(object sender, EventArgs e)
         {
             //sdfksdjfjsd f
+            MessageBox.Show("sdfsdf");
         }
 
         private void button1_Click(object sender, EventArgs e)
